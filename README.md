@@ -19,6 +19,8 @@
     * .flex .items-center: mexe nos elementos na horizontal
     * .flex .flex-col .justify-around: mexe nos elementos na horizontal
     * .flex .flex-col .items-center: mexe nos elementos na vertical
+    * [Dominando flexbox:](https://www.youtube.com/watch?v=WyIiuB8NoqQ)
+    * [Dominando GRID:](https://www.youtube.com/watch?v=Aql4FvOKcho)
 
 ##Links
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
