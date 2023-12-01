@@ -11,6 +11,11 @@
 * In ``package.json`` add a new command
   * ```npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch```
 
+* Pulo do gato
+  * Secão 2
+    * mx: medidas de margem para esquerda (left) e direita (rigth)
+    * my: medidas de margem para o topo (top) e embaixo (bottom)
+
 ##Links
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
 
